@@ -17,7 +17,7 @@ environment:
   sdk: ">=2.1.0 <3.0.0"
 
 dependencies:
-  braspag_oauth_dart: ^1.0.0
+  braspag_oauth_dart: ^1.1.0
 
   flutter:
     sdk: flutter
